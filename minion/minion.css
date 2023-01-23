@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+}
+.main{
+    background-color: aliceblue;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 400px;
+    width: 300px;
+margin-left: 500px;
+margin-top: 100px;
+}
+.a{
+    background-color: blue;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 200px;
+    width: 300px;
+}
+img{
+    height: 200px;
+    margin-left: 75px;
+}
+input{
+    margin-top: 100px;
+    margin-left: 125px;
+    background-color: darkslategray;
+    height: 50PX;
+    width: 50px;
+}
